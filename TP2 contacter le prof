@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> contacter le professeur </title>
+</head>
+<body>
+<body>
+<h2>Envoyer un message au professeur</h2>
+
+<form>
+<label>Nom :</label><br>
+<input type="text" name="Nom"><br><br>
+
+<label>Message :</label><br>
+<input type="email" name="email"><br><br>
+
+<label>Message :</label><br>
+<textarea name="message" rows="5" cols="30"></textarea><br><br>
+<input type="submit" value="Envoyer">
+</form>
+</body>
+</html>
